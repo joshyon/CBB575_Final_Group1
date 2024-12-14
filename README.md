@@ -21,7 +21,7 @@ BiocManager::install("BSgenome.Hsapiens.NCBI.GRCh38") <br>
 BiocManager::install("SNPlocs.Hsapiens.dbSNP155.GRCh37") <br>
 BiocManager::install("BSgenome.Hsapiens.1000genomes.hs37d5") <br>
 
-###Installing MAGMA (From https://cncr.nl/research/magma/) <br>
+### Installing MAGMA (From https://cncr.nl/research/magma/) <br>
 wget https://vu.data.surfsara.nl/index.php/s/zkKbNeNOZAhFXZB/download -O magma.zip <br>
 unzip magma.zip <br>
 
